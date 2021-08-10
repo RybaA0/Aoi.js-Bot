@@ -1,0 +1,21 @@
+{
+  "name": "Aoi.js-bot",
+  "version": "1.0.01",
+  "description": "Prosty bot w aoi.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "RybaA#0001",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.4.4",
+    "yt-search": "^2.10.0",
+    "discord.js": "^13.0.1",
+    "ffmpeg-static": "^4.4.0",
+    "@discordjs/opus": "^0.5.3"
+  }
+}
